@@ -47,3 +47,5 @@ https://github.com/takaishi/hello2019
 [ThirdPartyResource を使った Kubernetes as a Service の実装](https://speakerdeck.com/shmurata/thirdpartyresource-woshi-tuta-kubernetes-as-a-service-falseshi-zhuang)
 
 [CRD によるカスタムコントローラの実装例の紹介](https://qiita.com/shmurata/items/8bfbcfc5944ad57a6d43)
+
+[client-goを使ってkuberntesで使用しているNodePortの一覧を取得するプログラムを作ってみた](https://qiita.com/sh-miyoshi/items/5c1af17fbeb684575946)
