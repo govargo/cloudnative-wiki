@@ -6,7 +6,7 @@
 
 [Custom controllers](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/#custom-controllers)
 
-[Client-go]
+[Client-go](https://github.com/kubernetes/client-go)
 
 [Sample Controller](https://github.com/kubernetes/sample-controller)
 
