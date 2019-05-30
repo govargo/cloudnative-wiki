@@ -2,6 +2,8 @@
 
 [Kubernetes](https://kubernetes.io/docs/home/)
 
+[The Illustrated Children’s Guide to Kubernetes](https://www.cncf.io/phippy/)
+
 # What Is
 
 [Cloud Native時代における Docker / Kubernetes による開発](https://speakerdeck.com/masayaaoyama/devsumi2019-amsy810-k8s)
