@@ -10,6 +10,12 @@
 
 [Sample Controller](https://github.com/kubernetes/sample-controller)
 
+## What is
+
+[KubernetesのCRDまわりを整理する。](https://qiita.com/cvusk/items/773e222e0971a5391a51)
+
+[Kubernetes Operator](https://qiita.com/shotat/items/4a60083fd20d11936860)
+
 ## How to
 
 [Extending Kubernetes with Custom Resources and Operator Frameworks](https://speakerdeck.com/ianlewis/extending-kubernetes-with-custom-resources-and-operator-frameworks)
@@ -27,3 +33,15 @@
 ## Reference
 
 https://github.com/takaishi/hello2019
+
+[CRDについてのメモ](https://repl.info/archives/2384/)
+
+[Hello Custom Controller!](https://repl.info/archives/2392/)
+
+[CustomControllerでinformerを使ってリソースの追加や更新といったイベント毎に処理を行う](https://repl.info/archives/2408/)
+
+[I wrote my first Kubernetes custom-controller to operate OpenStack SecurityGroup](https://repl.info/archives/2553/)
+
+[ThirdPartyResource を使った Kubernetes as a Service の実装](https://speakerdeck.com/shmurata/thirdpartyresource-woshi-tuta-kubernetes-as-a-service-falseshi-zhuang)
+
+[CRD によるカスタムコントローラの実装例の紹介](https://qiita.com/shmurata/items/8bfbcfc5944ad57a6d43)
