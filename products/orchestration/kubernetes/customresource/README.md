@@ -49,3 +49,5 @@ https://github.com/takaishi/hello2019
 [CRD によるカスタムコントローラの実装例の紹介](https://qiita.com/shmurata/items/8bfbcfc5944ad57a6d43)
 
 [client-goを使ってkuberntesで使用しているNodePortの一覧を取得するプログラムを作ってみた](https://qiita.com/sh-miyoshi/items/5c1af17fbeb684575946)
+
+[Go言語からkubernetes APIを呼び出すクライアント「client-go」の紹介](http://ks888.hatenablog.com/entry/2017/12/25/001259)
