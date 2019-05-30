@@ -1,4 +1,4 @@
-# Officaial
+# Official
 
 [Kubernetes](https://kubernetes.io/docs/home/)
 
