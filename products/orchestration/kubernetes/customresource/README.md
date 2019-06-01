@@ -18,6 +18,8 @@
 
 ## How to
 
+[Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk](https://www.youtube.com/watch?v=7wdUa4Ulwxg)
+
 [Extending Kubernetes with Custom Resources and Operator Frameworks](https://speakerdeck.com/ianlewis/extending-kubernetes-with-custom-resources-and-operator-frameworks)
 
 [Kubernetes Operator で実現する NoOps の世界](https://speakerdeck.com/shmurata/how-we-accomplish-noops-by-kubernetes-operator)
