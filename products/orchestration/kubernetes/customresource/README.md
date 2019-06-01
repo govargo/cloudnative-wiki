@@ -6,6 +6,8 @@
 
 [Controllers](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-api-machinery/controllers.md)
 
+[Extend the Kubernetes API with CustomResourceDefinitions](https://kubernetes.io/docs/tasks/access-kubernetes-api/custom-resources/custom-resource-definitions/)
+
 [Client-go](https://github.com/kubernetes/client-go)
 
 [Sample Controller](https://github.com/kubernetes/sample-controller)
