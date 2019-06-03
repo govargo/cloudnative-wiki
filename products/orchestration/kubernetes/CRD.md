@@ -34,6 +34,12 @@
 
 [Kubernetes の operator を kubebuilder を使って書いた](https://medium.com/@bells17/kubernetes-%E3%81%AE-operator-%E3%82%92-kubebuilder-%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E6%9B%B8%E3%81%84%E3%81%9F-6020077a1e22)
 
+[Building an operator for Kubernetes with the sample-controller](https://itnext.io/building-an-operator-for-kubernetes-with-the-sample-controller-b4204be9ad56)
+
+[Building an operator for Kubernetes with kubebuilder](https://itnext.io/building-an-operator-for-kubernetes-with-kubebuilder-17cbd3f07761)
+
+[Building an operator for Kubernetes with operator-sdk](https://itnext.io/building-an-operator-for-kubernetes-with-operator-sdk-40a029ea056)
+
 ## Reference
 
 [GoDoc](https://godoc.org/)
