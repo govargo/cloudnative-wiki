@@ -44,6 +44,8 @@
 
 [GoDoc](https://godoc.org/)
 
+[GoDoc - ControllerRuntime](https://godoc.org/github.com/kubernetes-sigs/controller-runtime)
+
 [Programming Kubernetes](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/#toc-start)
 
 https://github.com/takaishi/hello2019
