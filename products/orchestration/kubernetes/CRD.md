@@ -18,13 +18,13 @@
 
 [Kubernetes Operator](https://qiita.com/shotat/items/4a60083fd20d11936860)
 
-## How to
-
-[Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk](https://www.youtube.com/watch?v=7wdUa4Ulwxg)
+[Kubernetes Operator で実現する NoOps の世界](https://speakerdeck.com/shmurata/how-we-accomplish-noops-by-kubernetes-operator)
 
 [Extending Kubernetes with Custom Resources and Operator Frameworks](https://speakerdeck.com/ianlewis/extending-kubernetes-with-custom-resources-and-operator-frameworks)
 
-[Kubernetes Operator で実現する NoOps の世界](https://speakerdeck.com/shmurata/how-we-accomplish-noops-by-kubernetes-operator)
+## How to
+
+[Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk](https://www.youtube.com/watch?v=7wdUa4Ulwxg)
 
 [Kubernete Meetup Tokyo #18 - Kubebuilder/controller-runtime 入門](https://www.slideshare.net/pfi/kubernete-meetup-tokyo-18-kubebuildercontrollerruntime?ref=https://k8sjp.connpass.com/event/124114/presentation/)
 
@@ -39,6 +39,8 @@
 [Building an operator for Kubernetes with kubebuilder](https://itnext.io/building-an-operator-for-kubernetes-with-kubebuilder-17cbd3f07761)
 
 [Building an operator for Kubernetes with operator-sdk](https://itnext.io/building-an-operator-for-kubernetes-with-operator-sdk-40a029ea056)
+
+[KubernetesのCRD(Custom Resource Definition)とカスタムコントローラーの作成](https://qiita.com/__Attsun__/items/785008ef970ad82c679c)
 
 ## Reference
 
