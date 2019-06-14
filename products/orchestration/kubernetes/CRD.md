@@ -42,6 +42,8 @@
 
 [KubernetesのCRD(Custom Resource Definition)とカスタムコントローラーの作成](https://qiita.com/__Attsun__/items/785008ef970ad82c679c)
 
+[Kubernetes Custom Resource for GCS on GKE](https://qiita.com/h-r-k-matsumoto/items/ab7ead01c89af60119aa)
+
 ## Reference
 
 [GoDoc](https://godoc.org/)
