@@ -30,6 +30,8 @@
 
 [Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk](https://www.youtube.com/watch?v=7wdUa4Ulwxg)
 
+[A deep dive into Kubernetes controllers](https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html)
+
 [Kubernete Meetup Tokyo #18 - Kubebuilder/controller-runtime 入門](https://www.slideshare.net/pfi/kubernete-meetup-tokyo-18-kubebuildercontrollerruntime?ref=https://k8sjp.connpass.com/event/124114/presentation/)
 
 [Kubernetes Deep Dive: Code Generation for CustomResources](https://blog.openshift.com/kubernetes-deep-dive-code-generation-customresources/)
