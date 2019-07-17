@@ -26,6 +26,8 @@
 
 [Writing Kubernetes Custom Controllers](https://medium.com/@cloudark/kubernetes-custom-controllers-b6c7d0668fdf)
 
+[KubernetesのCustom Resource Definition(CRD)とCustom Controller](https://www.sambaiz.net/article/182/)
+
 ## How to
 
 [Extending Kubernetes: Create Controllers for Core and Custom Resources](https://medium.com/@trstringer/create-kubernetes-controllers-for-core-and-custom-resources-62fc35ad64a3)
@@ -87,3 +89,5 @@ https://github.com/takaishi/hello2019
 [Cloud Native at Command - kubebuilder](https://github.com/programming-kubernetes/cnat/tree/master/cnat-kubebuilder)
 
 [Cloud Native at Command - Operator SDK](https://github.com/programming-kubernetes/cnat/tree/master/cnat-operator)
+
+[kubebuilder-workshops](https://github.com/DirectXMan12/kubebuilder-workshops/commit/684cf505ba8ad22f5b6b6b34282389bd7dbd3aca)
