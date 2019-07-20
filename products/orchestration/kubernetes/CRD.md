@@ -34,6 +34,8 @@
 
 [Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk](https://www.youtube.com/watch?v=7wdUa4Ulwxg)
 
+[TGI Kubernetes 083: Minecraft Controller with Kubebuilder](https://www.youtube.com/watch?v=tv-HJuwC4yI)
+
 [A deep dive into Kubernetes controllers](https://engineering.bitnami.com/articles/a-deep-dive-into-kubernetes-controllers.html)
 
 [Kubewatch, an example of Kubernetes custom controller](https://engineering.bitnami.com/articles/kubewatch-an-example-of-kubernetes-custom-controller.html)
