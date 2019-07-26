@@ -30,6 +30,8 @@
 
 ## How to
 
+[Kubernetesを拡張して日々のオペレーションを自動化する](https://speakerdeck.com/ladicle/kuberneteswokuo-zhang-siteri-falseoperesiyonwozi-dong-hua-suru)
+
 [Extending Kubernetes: Create Controllers for Core and Custom Resources](https://medium.com/@trstringer/create-kubernetes-controllers-for-core-and-custom-resources-62fc35ad64a3)
 
 [Writing Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - Alena Prokharchyk](https://www.youtube.com/watch?v=7wdUa4Ulwxg)
@@ -84,7 +86,7 @@ https://github.com/takaishi/hello2019
 
 [client-goでKubernetesのAPIを試す](https://pizi.netlify.com/posts/kubernetes-client-go-example/)
 
-[Debugging Kubernetes Controllers from IDE](https://static.sched.com/hosted_files/kccncosschn19eng/57/KubeCon_China_2019_Debugging_Controllers_IDE.pdf)
+[Debugging Kubernetes Controllers from IDE](https://static.sched.com/hosted_files/kccncosschn19eng/6a/Kubecon%20China%202019%20Debugging%20Controllers%20from%20IDE.pdf)
 
 [Cloud Native at Command - controller](https://github.com/programming-kubernetes/cnat)
 
