@@ -58,6 +58,8 @@
 
 [Kubernetes Custom Resource for GCS on GKE](https://qiita.com/h-r-k-matsumoto/items/ab7ead01c89af60119aa)
 
+[Writing Your First Kubernetes Operator](https://medium.com/faun/writing-your-first-kubernetes-operator-8f3df4453234)
+
 ## Reference
 
 [GoDoc](https://godoc.org/)
